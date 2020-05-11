@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488058096241",
+    "firebase_url": "https://facelogtest.firebaseio.com",
+    "project_id": "facelogtest",
+    "storage_bucket": "facelogtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488058096241:android:8d523eeeaa2bdcb55aa9d0",
+        "android_client_info": {
+          "package_name": "com.example.chatandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488058096241-bh43d39qm7gngfi040vgngsveh2urlb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatandroid",
+            "certificate_hash": "9367e4d559911aa59026c48bd4689ae23596e566"
+          }
+        },
+        {
+          "client_id": "488058096241-4i7oca7aiueguu9tej3s9vr80omorjen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOo7e4rEftn4hHnee36D7tzXrjrifip0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488058096241-4i7oca7aiueguu9tej3s9vr80omorjen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
