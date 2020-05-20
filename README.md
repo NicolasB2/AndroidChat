@@ -1,1 +1,1 @@
-# AppChatAndroid
+# Android Chat Application
