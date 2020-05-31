@@ -1,2 +1,2 @@
-# Android Chat Application
+# Example of android chat application
 
